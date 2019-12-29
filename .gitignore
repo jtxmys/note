@@ -12,4 +12,3 @@ dist/
 # pyinstaller 打包配置文件
 *.spec
 conf.ini
-
